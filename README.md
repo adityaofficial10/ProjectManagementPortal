@@ -2,7 +2,7 @@
 
 This is a full stack web portal developed for NITK Web Club's Winter of Code. 
 
-## Technologies Used: \n
+## Technologies Used: 
 Nodejs,Expressjs,Reactjs,SQL,Sequelize ORM,GraphQL,CORS,Redis
 
 
